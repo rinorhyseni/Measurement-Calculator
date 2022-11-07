@@ -15,12 +15,12 @@
     "extra": {
         "shopware-plugin-class": "Swag\\MeasurementCalculator\\SwagMeasurementCalculator",
         "label": {
-            "de-DE": "Der angezeigte lesbare Name für das Plugin",
-            "en-GB": "The displayed readable name for the plugin"
+            "de-DE": "Measurement Price Calculator",
+            "en-GB": "Measurement Price Calculator"
         },
         "description": {
-            "de-DE": "Beschreibung in der Administration für das Plugin",
-            "en-GB": "Description in the administration for this plugin"
+            "de-DE": "Messrechner-Plugin basierend auf dem Preis pro Quadratmeter",
+            "en-GB": "Measurement Calculator Plugin based on price per square meter"
         }
     },
     "autoload": {
